@@ -23,7 +23,7 @@ body {
 
 .img{
     width: 300px;
-    background-image: url('/frontend newbie 1/images/image-product-desktop.jpg');
+    background-image: url('../images/image-product-desktop.jpg');
     background-size: cover;
 }
 
@@ -131,7 +131,7 @@ button:hover{
         
     }
     .img{
-        background-image: url('/frontend newbie 1/images/image-product-mobile.jpg');
+        background-image: url('../images/image-product-mobile.jpg');
         height: 447px;
         width: 343px;
         border-radius: 8px 8px 0px 0px;
